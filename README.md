@@ -4,7 +4,7 @@
 
 ![](images/print.PNG)
 
-## [live website](https://izkeer.github.io/PasswordGenerator/)
+## [live website](https://izkeer.github.io/ChromeExtension/)
 ## My process
 
 This is a "following along" tutorial by Scrimba Javascript course.
