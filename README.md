@@ -7,13 +7,14 @@
 ## [live website](https://izkeer.github.io/PasswordGenerator/)
 ## My process
 
-My Process to complete the solos project started by doing the visual display of the project, then adding two functions into the JS to generate a password and other to display the previous function into the desired buttons..
- 
+This is a "following along" tutorial by Scrimba Javascript course.
+In this course it was teached things like creating a localStorage to store the saved links.
+Also how to use an API, in this case it was used google Tab API to save the current tab into the extension
 
 ### How the project works
 
-So, this is basicallly a password generator "app" that will generate a random password with 15 characters length using for loop (including symbols, numbers and letters).
-everytime you click in the "Generate Password" button, it will generate two new passwords on each html element.
+So, this extension works like the favorite tabs saver. You can insert a link manually or you can browse through the tabs and save the current tab you're active by clicking in the "save tab button" 
+you can also delete ALL the saved links by double clicking the "delete all" button.
 
 ### Built with
 
